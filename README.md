@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Adarshhh03/Daily-Practice/tree/master/0877-shortest-path-visiting-all-nodes) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Adarshhh03/Daily-Practice/tree/master/0031-next-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Adarshhh03/Daily-Practice/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
