@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Adarshhh03/Daily-Practice/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Adarshhh03/Daily-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adarshhh03/Daily-Practice/tree/master/0213-house-robber-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Adarshhh03/Daily-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/Adarshhh03/Daily-Practice/tree/master/0721-accounts-merge) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Adarshhh03/Daily-Practice/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Adarshhh03/Daily-Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
