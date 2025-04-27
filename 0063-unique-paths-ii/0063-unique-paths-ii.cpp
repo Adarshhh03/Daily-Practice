@@ -9,7 +9,7 @@ public:
         if (obstacleGrid[0][0] == 1) return 0;
         dp[0][0] = 1;
 
-        // Fill first column
+        // Fill first column, if 1,0,1->then we should fill 1,0,0
         for (int i = 1; i < m; i++) {
             if (obstacleGrid[i][0] == 0)
                 dp[i][0] = dp[i-1][0];
