@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Adarshhh03/Daily-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adarshhh03/Daily-Practice/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarshhh03/Daily-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/Adarshhh03/Daily-Practice/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/Adarshhh03/Daily-Practice/tree/master/0721-accounts-merge) |
 | [0967-minimum-falling-path-sum](https://github.com/Adarshhh03/Daily-Practice/tree/master/0967-minimum-falling-path-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adarshhh03/Daily-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Adarshhh03/Daily-Practice/tree/master/0031-next-permutation) |
+| [0455-assign-cookies](https://github.com/Adarshhh03/Daily-Practice/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Adarshhh03/Daily-Practice/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/Adarshhh03/Daily-Practice/tree/master/0721-accounts-merge) |
 ## Math
 |  |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Adarshhh03/Daily-Practice/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Adarshhh03/Daily-Practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
