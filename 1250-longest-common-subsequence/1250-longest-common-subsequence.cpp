@@ -20,15 +20,15 @@ public:
         vector<vector<int>> dp(index1+1,vector<int> (index2+1,0));
         for(int i=1;i<=index1;i++){
             for(int j=1;j<=index2;j++){
-                int op1=0,op2=0;
+                int op;
                 if(text1[i-1]==text2[j-1]){
-                 op1=1+dp[i-1][j-1];
+                 op=1+dp[i-1][j-1];
                 }
                 else{
-                    op2=max(dp[i-1][j],dp[i][j-1]);
+                    op=max(dp[i-1][j],dp[i][j-1]);
                 }
 
-                dp[i][j]=max(op1,op2);
+                dp[i][j]=op;
             }
         }
 
