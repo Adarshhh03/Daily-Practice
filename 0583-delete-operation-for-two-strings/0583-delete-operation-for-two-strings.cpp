@@ -7,14 +7,14 @@ public:
 
         for(int i=1;i<=len1;i++){
             for(int j=1;j<=len2;j++){
-                int op1=0,op2=0;
+                int op;
                 if(word1[i-1]==word2[j-1]){
-                   op1=1+dp[i-1][j-1];
+                   op=1+dp[i-1][j-1];
                 }
                 else{
-                    op2=max(dp[i-1][j],dp[i][j-1]);
+                    op=max(dp[i-1][j],dp[i][j-1]);
                 }
-                dp[i][j]=max(op1,op2);
+                dp[i][j]=op;
             }
         }
         int lcs=dp[len1][len2];
