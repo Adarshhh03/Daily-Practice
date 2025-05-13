@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Adarshhh03/Daily-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Adarshhh03/Daily-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adarshhh03/Daily-Practice/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Adarshhh03/Daily-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Adarshhh03/Daily-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarshhh03/Daily-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Adarshhh03/Daily-Practice/tree/master/0518-coin-change-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Adarshhh03/Daily-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Adarshhh03/Daily-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adarshhh03/Daily-Practice/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Adarshhh03/Daily-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Adarshhh03/Daily-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarshhh03/Daily-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Adarshhh03/Daily-Practice/tree/master/0455-assign-cookies) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Adarshhh03/Daily-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [1753-path-with-minimum-effort](https://github.com/Adarshhh03/Daily-Practice/tree/master/1753-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
