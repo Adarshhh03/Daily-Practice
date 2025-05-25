@@ -1,32 +1,29 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-           int currSum = nums[0], maxSum = nums[0];
-          // to print
-          int mini=min(nums[0],0);
-          int lastIndex=0;
-          int startIndex=0,miniIndex=0;
-        for (int i = 1; i < nums.size(); i++) {
-            // currentSum = max(nums[i], currentSum + nums[i]);//here we are storing the max of prefixSum
-            // maxSum = max(maxSum, currentSum);
-            currSum+=nums[i];
-            if(currSum-mini>maxSum){
-                maxSum=currSum-mini;
-                lastIndex=i;
-                startIndex=miniIndex+1;
-            }
-           
-           if(mini>currSum){
-            mini=currSum;
-            miniIndex=i;
-           }
+        int n=nums.size();
 
+        int sum=0;
+        int maxi=INT_MIN;
+        int start=0;
+        int end=0;
+        for(int i=0;i<n;i++){
+            if(sum==0)  start=i;
+            sum+=nums[i];
+            if(sum>maxi){
+                maxi=sum;
+                end=i;
+            }
+
+            if(sum<0){   //first we store the sum,and then we discard it if it is negative,as it is of no use
+                sum=0;
+            }
         }
 
-    for(int i=startIndex;i<=lastIndex;i++){
-        cout<<nums[i]<<" ";
-    }
+        for(int i=start;i<=end;i++){
+            cout<<nums[i]<<" ";
+        }
 
-    return maxSum;
+        return maxi;
     }
 };
