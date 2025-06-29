@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Adarshhh03/Daily-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Adarshhh03/Daily-Practice/tree/master/0721-accounts-merge) |
 | [0967-minimum-falling-path-sum](https://github.com/Adarshhh03/Daily-Practice/tree/master/0967-minimum-falling-path-sum) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarshhh03/Daily-Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Adarshhh03/Daily-Practice/tree/master/1121-partition-array-for-maximum-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adarshhh03/Daily-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Adarshhh03/Daily-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarshhh03/Daily-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Adarshhh03/Daily-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarshhh03/Daily-Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Adarshhh03/Daily-Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/Adarshhh03/Daily-Practice/tree/master/1753-path-with-minimum-effort) |
 ## Depth-First Search
