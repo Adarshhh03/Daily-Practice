@@ -36,7 +36,6 @@ public:
                 return (double)nums2[medianIndex - nums1.size()];
             }
         } else {
-            // Even number of elements: return average of two middles
             int medianIndex1 = total / 2 - 1;
             int medianIndex2 = total / 2;
             int val1, val2;
