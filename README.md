@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Adarshhh03/Daily-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Adarshhh03/Daily-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarshhh03/Daily-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Adarshhh03/Daily-Practice/tree/master/0053-maximum-subarray) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Adarshhh03/Daily-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarshhh03/Daily-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Adarshhh03/Daily-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarshhh03/Daily-Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Adarshhh03/Daily-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Adarshhh03/Daily-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Adarshhh03/Daily-Practice/tree/master/0169-majority-element) |
 ## Simulation
