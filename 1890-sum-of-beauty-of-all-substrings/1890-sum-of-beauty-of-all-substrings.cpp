@@ -14,7 +14,7 @@ public:
 
                 for (auto [ch, freq] : mpp) {
                     maxi = max(maxi, freq);
-                    mini = min(mini, freq);  // only non-zero freq counted
+                    mini = min(mini, freq);
                 }
 
                 ans += (maxi - mini);
