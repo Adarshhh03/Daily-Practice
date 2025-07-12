@@ -224,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Adarshhh03/Daily-Practice/tree/master/0940-fruit-into-baskets) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Adarshhh03/Daily-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
