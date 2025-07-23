@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Adarshhh03/Daily-Practice/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshhh03/Daily-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Adarshhh03/Daily-Practice/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adarshhh03/Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/Adarshhh03/Daily-Practice/tree/master/0455-assign-cookies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adarshhh03/Daily-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshhh03/Daily-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adarshhh03/Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Adarshhh03/Daily-Practice/tree/master/0169-majority-element) |
 | [0721-accounts-merge](https://github.com/Adarshhh03/Daily-Practice/tree/master/0721-accounts-merge) |
 | [0940-fruit-into-baskets](https://github.com/Adarshhh03/Daily-Practice/tree/master/0940-fruit-into-baskets) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarshhh03/Daily-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshhh03/Daily-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Adarshhh03/Daily-Practice/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adarshhh03/Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Adarshhh03/Daily-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Adarshhh03/Daily-Practice/tree/master/0328-odd-even-linked-list) |
 ## Merge Sort
