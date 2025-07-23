@@ -13,7 +13,7 @@ public:
     ListNode* d2 = headB;
     
     while(d1 != d2) {
-        d1 = d1 == NULL? headA:d1->next;
+        d1 = d1 == NULL? headA:d1->next;  //d1=true or false(d1 is NULL or not)
         d2 = d2 == NULL? headB:d2->next;
     }
     
