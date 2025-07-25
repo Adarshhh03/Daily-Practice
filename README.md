@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Adarshhh03/Daily-Practice/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Adarshhh03/Daily-Practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Adarshhh03/Daily-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Adarshhh03/Daily-Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Adarshhh03/Daily-Practice/tree/master/0062-unique-paths) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Adarshhh03/Daily-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Adarshhh03/Daily-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarshhh03/Daily-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Adarshhh03/Daily-Practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Adarshhh03/Daily-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Adarshhh03/Daily-Practice/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Adarshhh03/Daily-Practice/tree/master/0063-unique-paths-ii) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Adarshhh03/Daily-Practice/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Adarshhh03/Daily-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Adarshhh03/Daily-Practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarshhh03/Daily-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Adarshhh03/Daily-Practice/tree/master/0455-assign-cookies) |
