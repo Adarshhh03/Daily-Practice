@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Adarshhh03/Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Adarshhh03/Daily-Practice/tree/master/0877-shortest-path-visiting-all-nodes) |
 ## Breadth-First Search
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adarshhh03/Daily-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarshhh03/Daily-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/Adarshhh03/Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Adarshhh03/Daily-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarshhh03/Daily-Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Adarshhh03/Daily-Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -272,12 +274,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0100-same-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Adarshhh03/Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [2384-root-equals-sum-of-children](https://github.com/Adarshhh03/Daily-Practice/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adarshhh03/Daily-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0100-same-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Adarshhh03/Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [2384-root-equals-sum-of-children](https://github.com/Adarshhh03/Daily-Practice/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adarshhh03/Daily-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 <!---LeetCode Topics End-->
