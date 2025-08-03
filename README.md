@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Adarshhh03/Daily-Practice/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adarshhh03/Daily-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Adarshhh03/Daily-Practice/tree/master/1753-path-with-minimum-effort) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adarshhh03/Daily-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Adarshhh03/Daily-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Adarshhh03/Daily-Practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1753-path-with-minimum-effort](https://github.com/Adarshhh03/Daily-Practice/tree/master/1753-path-with-minimum-effort) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adarshhh03/Daily-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Adarshhh03/Daily-Practice/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Adarshhh03/Daily-Practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Adarshhh03/Daily-Practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adarshhh03/Daily-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
 | ------- |
@@ -270,9 +273,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0100-same-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Adarshhh03/Daily-Practice/tree/master/2384-root-equals-sum-of-children) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adarshhh03/Daily-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0100-same-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Adarshhh03/Daily-Practice/tree/master/2384-root-equals-sum-of-children) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adarshhh03/Daily-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 <!---LeetCode Topics End-->
