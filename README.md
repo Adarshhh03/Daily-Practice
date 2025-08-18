@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0100-same-tree) |
 | [0399-evaluate-division](https://github.com/Adarshhh03/Daily-Practice/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Adarshhh03/Daily-Practice/tree/master/0721-accounts-merge) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -288,10 +290,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Adarshhh03/Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [2384-root-equals-sum-of-children](https://github.com/Adarshhh03/Daily-Practice/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adarshhh03/Daily-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
