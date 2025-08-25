@@ -1,30 +1,32 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-        // Build the adjacency list
-        vector<pair<int, int>> adj[n];
+        // Build adjacency list (directed graph)
+        vector<vector<pair<int,int>>> adj(n);
         for (auto &f : flights) {
-            adj[f[0]].push_back({f[1], f[2]}); // u -> v with cost w
+            adj[f[0]].push_back({f[1], f[2]});
         }
 
-        // Min-heap for Dijkstra: {cost, node, stops}
-        queue<tuple<int, int, int>> q;
+        // {stops, node, cost}
+        queue<tuple<int,int,int>> q;
         q.push({0, src, 0});
 
-        // Distance array
         vector<int> dist(n, 1e9);
         dist[src] = 0;
 
         while (!q.empty()) {
-            auto [cost, node, stops] = q.front();
+            auto [stops, node, cost] = q.front();
             q.pop();
 
-            if (stops > k) continue;
-
-            for (auto &[neigh, wt] : adj[node]) {
-                if (cost + wt < dist[neigh]) {
-                    dist[neigh] = cost + wt;
-                    q.push({cost + wt, neigh, stops + 1});
+            // explore neighbors if within stop limit
+            for (auto &edge : adj[node]) {
+                int v = edge.first, w = edge.second;
+                if (stops + 1 <= k + 1 && cost + w < dist[v]) {
+                    dist[v] = cost + w;
+                    q.push({stops + 1, v, dist[v]});
                 }
             }
         }
