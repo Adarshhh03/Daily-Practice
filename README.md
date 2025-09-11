@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Adarshhh03/Daily-Practice/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Adarshhh03/Daily-Practice/tree/master/0138-copy-list-with-random-pointer) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Adarshhh03/Daily-Practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Adarshhh03/Daily-Practice/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Adarshhh03/Daily-Practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Adarshhh03/Daily-Practice/tree/master/0072-edit-distance) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Adarshhh03/Daily-Practice/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Adarshhh03/Daily-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Adarshhh03/Daily-Practice/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Adarshhh03/Daily-Practice/tree/master/0368-largest-divisible-subset) |
