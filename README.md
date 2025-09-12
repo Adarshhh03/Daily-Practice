@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Adarshhh03/Daily-Practice/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Adarshhh03/Daily-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/Adarshhh03/Daily-Practice/tree/master/1753-path-with-minimum-effort) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Adarshhh03/Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adarshhh03/Daily-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Adarshhh03/Daily-Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Adarshhh03/Daily-Practice/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Adarshhh03/Daily-Practice/tree/master/1753-path-with-minimum-effort) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Adarshhh03/Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Adarshhh03/Daily-Practice/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/Adarshhh03/Daily-Practice/tree/master/0721-accounts-merge) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Adarshhh03/Daily-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Adarshhh03/Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Adarshhh03/Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Adarshhh03/Daily-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/Adarshhh03/Daily-Practice/tree/master/0890-lemonade-change) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Adarshhh03/Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Recursion
 |  |
 | ------- |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Adarshhh03/Daily-Practice/tree/master/0940-fruit-into-baskets) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Adarshhh03/Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
 | ------- |
@@ -342,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Adarshhh03/Daily-Practice/tree/master/0494-target-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Adarshhh03/Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
