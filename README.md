@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Adarshhh03/Daily-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Adarshhh03/Daily-Practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarshhh03/Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0295-find-median-from-data-stream](https://github.com/Adarshhh03/Daily-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Adarshhh03/Daily-Practice/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adarshhh03/Daily-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adarshhh03/Daily-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Adarshhh03/Daily-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Adarshhh03/Daily-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Adarshhh03/Daily-Practice/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Adarshhh03/Daily-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Adarshhh03/Daily-Practice/tree/master/0169-majority-element) |
+| [0295-find-median-from-data-stream](https://github.com/Adarshhh03/Daily-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/Adarshhh03/Daily-Practice/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Adarshhh03/Daily-Practice/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/Adarshhh03/Daily-Practice/tree/master/0721-accounts-merge) |
@@ -351,4 +354,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adarshhh03/Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Adarshhh03/Daily-Practice/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Adarshhh03/Daily-Practice/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
