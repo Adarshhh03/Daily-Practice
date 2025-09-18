@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Adarshhh03/Daily-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarshhh03/Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Adarshhh03/Daily-Practice/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/Adarshhh03/Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adarshhh03/Daily-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Adarshhh03/Daily-Practice/tree/master/0721-accounts-merge) |
 | [0940-fruit-into-baskets](https://github.com/Adarshhh03/Daily-Practice/tree/master/0940-fruit-into-baskets) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Adarshhh03/Daily-Practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Adarshhh03/Daily-Practice/tree/master/0115-distinct-subsequences) |
 | [0399-evaluate-division](https://github.com/Adarshhh03/Daily-Practice/tree/master/0399-evaluate-division) |
+| [0424-longest-repeating-character-replacement](https://github.com/Adarshhh03/Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/Adarshhh03/Daily-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Adarshhh03/Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/Adarshhh03/Daily-Practice/tree/master/0721-accounts-merge) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Adarshhh03/Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Adarshhh03/Daily-Practice/tree/master/0940-fruit-into-baskets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adarshhh03/Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Linked List
