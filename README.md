@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarshhh03/Daily-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Adarshhh03/Daily-Practice/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/Adarshhh03/Daily-Practice/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshhh03/Daily-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Adarshhh03/Daily-Practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarshhh03/Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Adarshhh03/Daily-Practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Adarshhh03/Daily-Practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Adarshhh03/Daily-Practice/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Adarshhh03/Daily-Practice/tree/master/0125-valid-palindrome) |
 | [0399-evaluate-division](https://github.com/Adarshhh03/Daily-Practice/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adarshhh03/Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/Adarshhh03/Daily-Practice/tree/master/0583-delete-operation-for-two-strings) |
