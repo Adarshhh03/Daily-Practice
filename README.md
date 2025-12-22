@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Adarshhh03/Daily-Practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Adarshhh03/Daily-Practice/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Adarshhh03/Daily-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Adarshhh03/Daily-Practice/tree/master/0622-design-circular-queue) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Adarshhh03/Daily-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Adarshhh03/Daily-Practice/tree/master/0721-accounts-merge) |
 | [0890-lemonade-change](https://github.com/Adarshhh03/Daily-Practice/tree/master/0890-lemonade-change) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarshhh03/Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Adarshhh03/Daily-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Adarshhh03/Daily-Practice/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/Adarshhh03/Daily-Practice/tree/master/0622-design-circular-queue) |
 ## Merge Sort
 |  |
 | ------- |
@@ -406,8 +408,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Adarshhh03/Daily-Practice/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/Adarshhh03/Daily-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0622-design-circular-queue](https://github.com/Adarshhh03/Daily-Practice/tree/master/0622-design-circular-queue) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Adarshhh03/Daily-Practice/tree/master/0295-find-median-from-data-stream) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Adarshhh03/Daily-Practice/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
