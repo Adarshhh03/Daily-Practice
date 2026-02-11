@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Adarshhh03/Daily-Practice/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Adarshhh03/Daily-Practice/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/Adarshhh03/Daily-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0901-online-stock-span](https://github.com/Adarshhh03/Daily-Practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adarshhh03/Daily-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Adarshhh03/Daily-Practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adarshhh03/Daily-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Memoization
@@ -436,10 +438,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Adarshhh03/Daily-Practice/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/Adarshhh03/Daily-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/Adarshhh03/Daily-Practice/tree/master/0622-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/Adarshhh03/Daily-Practice/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Adarshhh03/Daily-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/Adarshhh03/Daily-Practice/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
