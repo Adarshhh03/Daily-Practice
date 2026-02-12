@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Adarshhh03/Daily-Practice/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Adarshhh03/Daily-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Adarshhh03/Daily-Practice/tree/master/0721-accounts-merge) |
+| [0846-hand-of-straights](https://github.com/Adarshhh03/Daily-Practice/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Adarshhh03/Daily-Practice/tree/master/0890-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adarshhh03/Daily-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-fruit-into-baskets](https://github.com/Adarshhh03/Daily-Practice/tree/master/0940-fruit-into-baskets) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Adarshhh03/Daily-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adarshhh03/Daily-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Adarshhh03/Daily-Practice/tree/master/0721-accounts-merge) |
+| [0846-hand-of-straights](https://github.com/Adarshhh03/Daily-Practice/tree/master/0846-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/Adarshhh03/Daily-Practice/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Adarshhh03/Daily-Practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1129-longest-string-chain](https://github.com/Adarshhh03/Daily-Practice/tree/master/1129-longest-string-chain) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Adarshhh03/Daily-Practice/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Adarshhh03/Daily-Practice/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/Adarshhh03/Daily-Practice/tree/master/0721-accounts-merge) |
+| [0846-hand-of-straights](https://github.com/Adarshhh03/Daily-Practice/tree/master/0846-hand-of-straights) |
 | [1129-longest-string-chain](https://github.com/Adarshhh03/Daily-Practice/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Adarshhh03/Daily-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adarshhh03/Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Adarshhh03/Daily-Practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Adarshhh03/Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Adarshhh03/Daily-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0846-hand-of-straights](https://github.com/Adarshhh03/Daily-Practice/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Adarshhh03/Daily-Practice/tree/master/0890-lemonade-change) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adarshhh03/Daily-Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Recursion
