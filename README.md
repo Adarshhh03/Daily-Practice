@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Adarshhh03/Daily-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Adarshhh03/Daily-Practice/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Adarshhh03/Daily-Practice/tree/master/0399-evaluate-division) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adarshhh03/Daily-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Adarshhh03/Daily-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0399-evaluate-division](https://github.com/Adarshhh03/Daily-Practice/tree/master/0399-evaluate-division) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adarshhh03/Daily-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Adarshhh03/Daily-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Adarshhh03/Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adarshhh03/Daily-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Adarshhh03/Daily-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Adarshhh03/Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adarshhh03/Daily-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
