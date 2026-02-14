@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Adarshhh03/Daily-Practice/tree/master/0744-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Adarshhh03/Daily-Practice/tree/master/0785-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Adarshhh03/Daily-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Adarshhh03/Daily-Practice/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adarshhh03/Daily-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Adarshhh03/Daily-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Adarshhh03/Daily-Practice/tree/master/0744-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Adarshhh03/Daily-Practice/tree/master/0785-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Adarshhh03/Daily-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Adarshhh03/Daily-Practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Adarshhh03/Daily-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Adarshhh03/Daily-Practice/tree/master/1753-path-with-minimum-effort) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adarshhh03/Daily-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Adarshhh03/Daily-Practice/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/Adarshhh03/Daily-Practice/tree/master/0846-hand-of-straights) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/Adarshhh03/Daily-Practice/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Adarshhh03/Daily-Practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1129-longest-string-chain](https://github.com/Adarshhh03/Daily-Practice/tree/master/1129-longest-string-chain) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adarshhh03/Daily-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/Adarshhh03/Daily-Practice/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adarshhh03/Daily-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adarshhh03/Daily-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/Adarshhh03/Daily-Practice/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Adarshhh03/Daily-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
