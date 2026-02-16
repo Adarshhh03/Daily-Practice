@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0110-balanced-binary-tree) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarshhh03/Daily-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adarshhh03/Daily-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
