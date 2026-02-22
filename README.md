@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Adarshhh03/Daily-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Adarshhh03/Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/Adarshhh03/Daily-Practice/tree/master/0721-accounts-merge) |
+| [1106-parsing-a-boolean-expression](https://github.com/Adarshhh03/Daily-Practice/tree/master/1106-parsing-a-boolean-expression) |
 | [1129-longest-string-chain](https://github.com/Adarshhh03/Daily-Practice/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Adarshhh03/Daily-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Adarshhh03/Daily-Practice/tree/master/1250-longest-common-subsequence) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Adarshhh03/Daily-Practice/tree/master/0044-wildcard-matching) |
+| [1106-parsing-a-boolean-expression](https://github.com/Adarshhh03/Daily-Practice/tree/master/1106-parsing-a-boolean-expression) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Adarshhh03/Daily-Practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adarshhh03/Daily-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adarshhh03/Daily-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1106-parsing-a-boolean-expression](https://github.com/Adarshhh03/Daily-Practice/tree/master/1106-parsing-a-boolean-expression) |
 ## Tree
 |  |
 | ------- |
